@@ -12,6 +12,7 @@
 
 - 🎯 Focused on **React, React Native, and Backend Development**
 - 🏗️ Building **iPass - an online reviewer platform**
+- 🧠 Working on **CS Hub - a forum-like collaboration platform for CS students and faculty**
 - 📱 Experienced in **Android (Kotlin) & Web Development**
 - ⚡ Enthusiastic about **Arduino, Embedded Systems, and IoT**
 
@@ -39,6 +40,8 @@
 
 ### 🌱 Current Projects
 - 🚀 **iPass** - An online reviewer platform with progress tracking and exams.
+- 💬 **CS Hub** - A forum-style collaboration system for CS students and faculty at BISU - Bilar.
+
 ---
 
 ### 🎉 Fun Fact
@@ -48,7 +51,7 @@
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="mailto:[markryanbalatero5@gmail.com]">
+  <a href="mailto:markryanbalatero5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/mrkryn5">
