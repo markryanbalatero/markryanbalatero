@@ -91,5 +91,3 @@ drwxr-xr-x  mark  sowsmart/         # rice-field fertilizer recommender w/ Ardui
 ```console
 mark@github:~$ echo "Let's connect and build something awesome together!" && exit
 ```
-
-<!-- Portrait generated with: python scripts/ascii_portrait.py <photo.jpg> assets/terminal-portrait.svg -->
