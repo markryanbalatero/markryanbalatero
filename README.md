@@ -14,6 +14,7 @@
 name:      Mark Ryan Balatero
 school:    Bohol Island State University
 status:    learning & exploring new technologies
+vibe:      [problem solver, curious, delusional]
 focus:     [mobile, web, backend, hardware, ai]
 fun_fact:  I love tinkering with hardware and building fun Arduino projects!
 ```

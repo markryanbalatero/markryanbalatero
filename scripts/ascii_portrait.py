@@ -108,6 +108,7 @@ INFO = [
     ("Name", "Mark Ryan Balatero"),
     ("School", "Bohol Island State University"),
     ("Role", "Student · Builder · Tinkerer"),
+    ("Vibe", "Problem Solver · Curious · Delusional"),
     ("Mobile", "Kotlin, Flutter, React Native"),
     ("Web", "React, Node.js, Vercel"),
     ("Backend", "Supabase, Firebase, PostgreSQL"),
@@ -128,7 +129,7 @@ def build(grid):
     top = 40 + 30  # title bar + command line
     art_w, art_h = cols * CELL_W, rows * CELL_H
     info_x = pad + art_w + 34
-    W = int(info_x + 340)
+    W = int(info_x + 380)
     H = int(top + art_h + 46)
 
     info_start = FORM_START + FORM_DUR + 0.6
