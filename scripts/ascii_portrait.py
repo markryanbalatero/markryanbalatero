@@ -115,7 +115,7 @@ INFO = [
     ("Hardware", "Arduino, sensors, IoT"),
     ("Langs", "TS, JS, Python, Java, Dart, C++"),
     ("Now", "iPass, CS Hub, PayakApp, SowSmart"),
-    ("Hobby", "Tinkering with Arduino builds"),
+    ("Hobby", "Playing board games, building nonsense stuff"),
     ("Email", "markryanbalatero5@gmail.com"),
 ]
 
@@ -129,7 +129,7 @@ def build(grid):
     top = 40 + 30  # title bar + command line
     art_w, art_h = cols * CELL_W, rows * CELL_H
     info_x = pad + art_w + 34
-    W = int(info_x + 380)
+    W = int(info_x + 440)
     H = int(top + art_h + 46)
 
     info_start = FORM_START + FORM_DUR + 0.6
